@@ -28,5 +28,5 @@ To use this project, make sure you have the following installed and configured:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/harshakr07/zomato-clone-cicd.git
+git clone https://github.com/surajkk93/zomato.git
 cd zomato-clone-cicd
